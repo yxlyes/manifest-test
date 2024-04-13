@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <!-- 其他已配置的项目 -->
+
+  <!-- 添加的新项目配置 -->
+  <project name="BlogMaterial" path="BlogMaterial" revision="master">
+    <remote name="origin" fetch="https://github.com/yxlyes/BlogMaterial"/>
+  </project>
+</manifest>
